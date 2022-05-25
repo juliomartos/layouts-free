@@ -9,7 +9,7 @@
 
 The project is still in development and the next updates will focus on the following tasks:
 
-- [x] Add more options layours
+- [x] Add more options layouts
 - [x] Comment lines with interesting methods of using the features that the language
 - [x] Code refactoring
 
