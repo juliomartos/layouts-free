@@ -58,6 +58,14 @@ We thank the following people who contributed to this project:
         </sub>
       </a>
     </td>
+    <td align="center">
+      <a href="https://github.com/matteusbonotto">
+        <img src="https://avatars.githubusercontent.com/u/32147233?v=4" width="100px;" alt="Photo of Matteus Bonotto on GitHub"/><br>
+        <sub>
+          <b>Matteus Bonotto</b>
+        </sub>
+      </a>
+    </td>
   </tr>
 </table>
 
